@@ -12,13 +12,13 @@ Este projeto apresenta uma pesquisa sobre os pilares do Pensamento Computacional
 
 ### 📄 Documento de Pesquisa
 Arquivo:
-github.com/jp-olivieri/etecvav/blod/main/ptic/pilares-do-pensamento-computacional/pilares-pensamento-1.docx
+[github.com/jp-olivieri/etecvav/blod/main/ptic/pilares-do-pensamento-computacional/pilares-pensamento-1.doc](https://github.com/jp-olivieri/etecvav/blob/main/ptic/pilares-do-pensamento-computacional/pilares-pensamento-1.docx)x
 
 Contém o desenvolvimento teórico da pesquisa, incluindo conceitos, explicações e referências utilizadas.
 
 ### 📊 Apresentação
 Arquivo:
-github.com/jp-olivieri/etecvav/blod/main/ptic/pilares-do-pensamento-computacional/apresentacao-1.pptx
+https://github.com/jp-olivieri/etecvav/blob/main/ptic/pilares-do-pensamento-computacional/apresentacao-1.pptx
 
 
 Contém os slides utilizados para apresentar os principais tópicos da pesquisa.
